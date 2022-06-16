@@ -11,4 +11,5 @@ I’m a Statistics graduate currently working on upskilling myself on anything d
 
 <img src="https://imgs.xkcd.com/comics/statistics.png" width="400" height="400"/>
 
+
 <img src="https://xkcd.com/2400/" width="400" height="400"/>
