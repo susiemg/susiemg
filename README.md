@@ -1,4 +1,4 @@
-## Hi👋🏾 nice to meet you!🤓 I'm Susie (she/her)
+## Hi👋🏾 nice to meet you!💫 I'm Susie (she/her)
 I’m a Statistics graduate currently working on upskilling myself on anything data science related :)
 
 ### ☎️ Socials
@@ -9,4 +9,4 @@ I’m a Statistics graduate currently working on upskilling myself on anything d
 
 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-<img src='https://imgs.xkcd.com/comics/statistics.png/" width="512px"/>
+<img src="https://imgs.xkcd.com/comics/statistics.png/" width="512px"/>
