@@ -9,4 +9,4 @@ I’m a Statistics graduate currently working on upskilling myself on anything d
 
 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-<img src="https://imgs.xkcd.com/comics/statistics.png/" width="512px"/>
+<img src="https://xkcd.com/2400/" width="512px"/>
