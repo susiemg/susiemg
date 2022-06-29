@@ -8,8 +8,8 @@ You can find my Portfolio below :)
 ### 🤓What I've worked with
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Enjoy this random meme of the day :)
-<img src="https://assets.amuniversal.com/b8ee936070e40132b90b005056a9545d" width="400" height="400"/>
-<img src="https://imgs.xkcd.com/comics/statistics.png" width="400" height="400"/>
+### Enjoy this random meme 
+<img src="https://assets.amuniversal.com/b8ee936070e40132b90b005056a9545d" />
+
 
 
