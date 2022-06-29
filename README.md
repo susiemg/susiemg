@@ -1,6 +1,6 @@
 ## Hi👋🏾 nice to meet you!  
 I’m a Statistics graduate currently working on upskilling myself on anything data science related.
-You can find my Portfolio below
+
 
 ### ☎️ Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/susana-maganga) 
