@@ -1,5 +1,5 @@
 ## Hi👋🏾 nice to meet you!  
-I’m a Statistics graduate currently working on upskilling myself on anything data science related.
+I’m currently working on upskilling myself on anything data science related.
 
 
 ### ☎️ Socials
